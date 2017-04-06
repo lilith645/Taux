@@ -1,2 +1,2 @@
 # Taux
-A Q2Q messanger system
+A Q2Q open source messenger system
